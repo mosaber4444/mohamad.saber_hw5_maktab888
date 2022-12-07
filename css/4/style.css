@@ -1,0 +1,32 @@
+.body {
+    background-color: #6f6fbe;
+}
+
+.container {
+    margin-top: 0px;
+}
+
+.login-form {
+    /*width: 40%;*/
+    max-width: 480px;
+    margin: 30px auto;
+    background: #f0f0f3;
+    padding: 50px;
+    border-radius: 10px;
+}
+.login-submit {
+    display: block;
+    width: 20px auto;
+    padding: 10px 20px;
+    background: #6f6fbe;
+    margin: 20px auto;
+}
+.login-input {
+    display: block;
+    padding: 15px 20px;
+    background: #f0f0f3;
+    margin: 10px ;
+        width: 80% ;
+    box-sizing: border-box;
+
+}
